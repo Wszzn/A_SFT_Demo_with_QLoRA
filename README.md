@@ -25,8 +25,8 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/Wszzn/A SFT Demo with QLoRA.git
-cd chinese-poem-generator
+git clone https://github.com/Wszzn/A_SFT_Demo_with_QLoRA.git
+cd A_SFT_Demo_with_QLoRA
 ```
 
 2. 安装依赖
